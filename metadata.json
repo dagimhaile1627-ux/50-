@@ -1,0 +1,6 @@
+{
+  "name": "Trusted 50+ Dating & Companionship Platform",
+  "description": "A verified relationship, companionship, and scam-protected community platform exclusively for adults aged 50 and older.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
